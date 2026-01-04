@@ -51,8 +51,12 @@ flutter run -d chrome
 
 ## Project Resources & Demo
 
-Demo Video:  
-https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link
+---
 
-Project Documentation:  
-https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6
+### Demo Video
+Watch the demo here: [▶️ Click to view on Google Drive](https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link)
+
+### Project Documentation
+Access the full documentation here: [📂 Click to view on Google Drive](https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6?usp=drive_link)
+
+---
