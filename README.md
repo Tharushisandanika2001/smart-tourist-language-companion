@@ -39,6 +39,7 @@ First, you need to start the Python server. Open your terminal in the `backend` 
 ```bash
 python -m uvicorn app.main:app --host 0.0.0.0 --port 9000 --reload
 
+
 second run the frontend:
 # Get the required packages
 flutter pub get
@@ -48,6 +49,9 @@ flutter run -d chrome
 
 ---
 
+---
+
 ## Additional Resources
-* **Demo Video:** [Click here to watch](https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link)
-* **Project Documentation:** [Download from Google Drive](https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6?usp=drive_link)
+
+* ** Demo Video:** [Click here to watch the Video](https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link)
+* ** Project Documentation:** [View & Download Documentation](https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6?usp=drive_link)
