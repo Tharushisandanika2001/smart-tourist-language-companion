@@ -34,12 +34,12 @@
 
 This project consists of two main parts: the **FastAPI Backend** and the **Flutter Web Frontend**. Follow these steps to get it running on your machine.
 
-### 1. Run the Backend (API)
+
 First, you need to start the Python server. Open your terminal in the `backend` folder and run:
 ```bash
 python -m uvicorn app.main:app --host 0.0.0.0 --port 9000 --reload
 
-### 2. Run the Frontend
+second run the frontend:
 # Get the required packages
 flutter pub get
 
