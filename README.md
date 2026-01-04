@@ -49,15 +49,14 @@ flutter run -d chrome
 
 ---
 
-## Project Resources & Demo
+<h2 style="background-color: black; color: white; padding: 5px;">Project Resources & Demo</h2>
 
 ### Demo Video
-Watch the full demo here:  
-<https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link>
+[Watch the full demo here](https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link)
 
 ### Project Documentation
-View all project documentation here:  
-<https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6>
+[View all project documentation here](https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6)
+
 
 
 
