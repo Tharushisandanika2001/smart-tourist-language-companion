@@ -49,16 +49,10 @@ flutter run -d chrome
 
 ---
 
-##  Project Resources & Demo
+## Project Resources & Demo
 
-If you want to see the app in action or check the documentation, use the links below:
+Demo Video:  
+https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link
 
-### Demo Video
-Watch the full demo of the app here:  
-[▶️ Click here to watch on Google Drive](https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link)
-
-### Project Documentation
-Access the full project reports and documentation:  
-[📂 Click here to view on Google Drive](https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6?usp=drive_link)
-
----
+Project Documentation:  
+https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6
