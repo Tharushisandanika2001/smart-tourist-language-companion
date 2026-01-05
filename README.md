@@ -21,8 +21,11 @@ An AI-powered web application that helps tourists in Sri Lanka overcome language
 ##  Tech Stack
 
 **Frontend:** Flutter Web (Dart)
+
 **Packages:** speech_to_text, flutter_tts, translator, http, url_launcher
+
 **Backend:** FastAPI (Python), Uvicorn
+
 **Logic:** Sinhala-to-Phonetic conversion & AI chat routing
 
 ---
