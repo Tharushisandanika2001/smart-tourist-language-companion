@@ -50,13 +50,13 @@ flutter run -d chrome
 
 ## 🎥 Demo
 
-[Watch Demo Video](https://drive.google.com/file/d/1qFFRyfMd03hlAGWfMn1Pz08hvJWCIZRY/view?usp=drive_link)
+[Watch Demo Video](https://drive.google.com/file/d/1hJBYtafqDqHGrPm5NWlD_ZjBs0VP_60b/view?usp=drive_link)
 
 ---
 
 ## 📄 Documentation
 
-[View Project Documentation](https://drive.google.com/drive/folders/1oAy68DDxbvXTZGRjVRvE4EUS4NZNMla6)
+[View Project Documentation](https://drive.google.com/drive/folders/1TSU9TtUp5DS47o7-k9l9Y_MjuWXX0V4J?usp=drive_link)
 
 ---
 *Academic AI-based web application to enhance the tourist experience in Sri Lanka.
